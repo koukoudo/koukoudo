@@ -9,7 +9,7 @@ I focus on writing quality-code that solves complex business problems and enhanc
 Professional Projects:
 * [Horus Music - Web Application](https://mmaz.myclientzone.com)
 * [Hope Within Ministries - Mobile Application](https://play.google.com/store/apps/details?id=com.hopewithinministries.hopewithin)
-* [The DVD Wiz - Website](https://dvdwiz.co.za)
+* [The DVD Wiz - Website](http://dvdwiz.co.za)
 
 ### Languages, Tools and Frameworks
 
