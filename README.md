@@ -2,6 +2,7 @@
 
 My name is Nikolaos and I work as a Fullstack Developer from my home in South Africa. 🇿🇦 <br>
 
+* I have around 10 years of programming experience.
 * I recently finished contributing to a music distribution application with Horus Music, built wih PHP and the Symfony framework.<br>
 * I am currently taking courses on Fullstack JavaScript Development (Node.js + React.js) and Amazon Web Services,
 while looking for an exciting new project to tackle.<br>
