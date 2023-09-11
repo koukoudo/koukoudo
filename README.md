@@ -14,3 +14,5 @@ Professional Projects:
 ### Languages, Tools and Frameworks
 
 [![My Skills](https://skillicons.dev/icons?i=php,symfony,js,nodejs,jquery,react,python,flask,java,kotlin,html,css,mysql,mongodb,firebase,linux,github,docker,aws)](https://skillicons.dev)
+
+--- ### :fire: My Stats
