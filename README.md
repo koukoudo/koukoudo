@@ -20,4 +20,4 @@ while looking for an exciting new project to tackle.<br>
 ### Connect
 
 * [LinkedIn](https://linkedin.com/in/nikanasta)
-* Email: nikanasta15@gmail.com
+* nikanasta15@gmail.com
