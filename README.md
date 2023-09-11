@@ -2,7 +2,7 @@
 
 ### About Me
 
-My name is Nikolaos and I am a Fullstack Developer based in South Africa. 🇿🇦 <br><br>
+My name is Nikolaos and I am a Fullstack Developer based in South Africa. 🇿🇦 <br>
 
 * I recently finished contributing to a music distribution application with Horus Music, built wih PHP and the Symfony framework.<br>
 * I am currently taking courses on Fullstack JavaScript Development (Node.js + React.js) and Amazon Web Services,
@@ -19,3 +19,5 @@ while looking for an exciting new project to tackle.<br>
 [![My Skills](https://skillicons.dev/icons?i=php,symfony,js,nodejs,jquery,react,python,flask,java,kotlin,html,css,mysql,mongodb,firebase,linux,github,docker,aws)](https://skillicons.dev)
 
 ## :fire: My Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=koukoudo&theme=dark&background=000000)](https://git.io/streak-stats)
