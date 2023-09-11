@@ -11,6 +11,6 @@ Professional Projects:
 * [Hope Within Ministries - Mobile Application](https://play.google.com/store/apps/details?id=com.hopewithinministries.hopewithin)
 * [The DVD Wiz - Website](https://dvdwiz.co.za)
 
-### Languages, Tools and Frameworks 🤖
+### Languages, Tools and Frameworks
 
 [![My Skills](https://skillicons.dev/icons?i=php,symfony,js,nodejs,jquery,react,python,flask,java,kotlin,html,css,mysql,mongodb,firebase,linux,github,docker,aws)](https://skillicons.dev)
