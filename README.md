@@ -1,7 +1,5 @@
 ## Welcome 👋
 
-### About Me
-
 My name is Nikolaos and I am a Fullstack Developer based in South Africa. 🇿🇦 <br>
 
 * I recently finished contributing to a music distribution application with Horus Music, built wih PHP and the Symfony framework.<br>
