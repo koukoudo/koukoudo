@@ -19,6 +19,6 @@ while looking for an exciting new project to tackle.<br>
 
 ### Connect
 
-* nikanasta.com
+* [Portfolio](https://nikanasta.com)
 * [LinkedIn](https://linkedin.com/in/nikanasta)
 * hello@nikanasta.com
