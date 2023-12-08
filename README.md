@@ -19,5 +19,6 @@ while looking for an exciting new project to tackle.<br>
 
 ### Connect
 
+* nikanasta.com
 * [LinkedIn](https://linkedin.com/in/nikanasta)
-* nikanasta15@gmail.com
+* hello@nikanasta.com
