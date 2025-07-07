@@ -2,13 +2,13 @@
 
 My name is Nikolaos and I work as a Fullstack Developer from my home in South Africa. 🇿🇦 <br>
 
-* I have around 10 years of programming experience.
-* I recently finished contributing to a music distribution application with Horus Music, built wih PHP and the Symfony framework.<br>
-* I am currently taking courses on Fullstack JavaScript Development (Node.js + React.js) and Amazon Web Services,
-while looking for an exciting new project to tackle.<br>
+* I have over 10 years of development experience.
+* I recently finished contributing to a music distribution application with Horus Music, built wih PHP and the Symfony framework, as well as .<br>
+* I am currently working on a custom platform for the film industry to connect producers with releveant freelancers, manage production documents and timelines, and secure government funding for projects.<br>
 * I focus on writing quality-code that solves complex business problems and enhances the user experience.<br>
 
 ### Professional Projects
+* [Global Soccer Schools - Mobile Application](https://apps.apple.com/za/app/gssi/id6478390340)
 * [Horus Music - Web Application](https://mmaz.myclientzone.com)
 * [Hope Within Ministries - Mobile Application](https://play.google.com/store/apps/details?id=com.hopewithinministries.hopewithin)
 * [The DVD Wiz - Website](http://dvdwiz.co.za)
@@ -19,6 +19,6 @@ while looking for an exciting new project to tackle.<br>
 
 ### Connect
 
-* [Portfolio](https://nikanasta.com)
+* [Portfolio](https://koukoudo.github.io)
 * [LinkedIn](https://linkedin.com/in/nikanasta)
-* hello@nikanasta.com
+* nikanasta15@gmail.com
