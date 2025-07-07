@@ -3,8 +3,8 @@
 My name is Nikolaos and I work as a Fullstack Developer from my home in South Africa. 🇿🇦 <br>
 
 * I have over 10 years of development experience.
-* I recently finished contributing to a music distribution application with Horus Music, built wih PHP and the Symfony framework, as well as .<br>
-* I am currently working on a custom platform for the film industry to connect producers with releveant freelancers, manage production documents and timelines, and secure government funding for projects.<br>
+* I recently finished contributing to a music distribution application with Horus Music, built wih PHP and the Symfony framework, as well as an app for Global Soccer Schools International to manage their soccer school franchises around the world.<br>
+* I am currently using FlutterFlow and Supabase to build a custom platform for the film industry to connect producers with releveant freelancers, manage production documents and timelines, and secure government funding for projects.<br>
 * I focus on writing quality-code that solves complex business problems and enhances the user experience.<br>
 
 ### Professional Projects
